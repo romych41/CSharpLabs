@@ -1,0 +1,7 @@
+D:\Romych\Labs\Web\С#\Lab1\Lab1\Lab1\bin\Debug\Lab1.exe.config
+D:\Romych\Labs\Web\С#\Lab1\Lab1\Lab1\bin\Debug\Lab1.exe
+D:\Romych\Labs\Web\С#\Lab1\Lab1\Lab1\bin\Debug\Lab1.pdb
+D:\Romych\Labs\Web\С#\Lab1\Lab1\Lab1\obj\Debug\Lab1.csprojResolveAssemblyReference.cache
+D:\Romych\Labs\Web\С#\Lab1\Lab1\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+D:\Romych\Labs\Web\С#\Lab1\Lab1\Lab1\obj\Debug\Lab1.exe
+D:\Romych\Labs\Web\С#\Lab1\Lab1\Lab1\obj\Debug\Lab1.pdb
